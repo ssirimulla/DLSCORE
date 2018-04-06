@@ -68,7 +68,7 @@ If you wish to contribute, submit pull requests or read more about our code of c
 
 ## Authors
 
-Mahmudulla Hassan , Dr. Olac Fuentes, Dr. Suman Sirimulla, Daniel Castaneda Mogollon, Ricardo Avila.
+Mahmudulla Hassan , Daniel Castaneda Mogollon, Ricardo Avila, Dr. Olac Fuentes, Dr. Suman Sirimulla.
 
 See also the list of [contributors](https://github.com/sirimullalab/DLSCORE/blob/master/contributors) who made this project possible.
 
