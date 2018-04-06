@@ -42,7 +42,7 @@ Where:
 -n is the desired number of networks
 ````
 
-We recommend setting `-n` to 10, as it has been shown to give the optimum results (highest Pearson, Spearman and Kendall correlation coefficients, and lowest RMSE and MAE values).
+We recommend setting `-n` to 10, as it has been shown to give the optimum results (highest Pearson, Spearman and Kendall correlation coefficients, and lowest RMSE and MAE values). However, the number of networks must be between 1 and 100
 
 The command to run DLSCORE should look this:
 
