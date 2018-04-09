@@ -25,7 +25,7 @@ At the end, your folder should look like this:
 
 ## Installing
 
-To install python 3.5, please visit this [link](https://www.python.org/downloads/) and follow the instructions.
+It is required that the user has a tensorflow environment in conda, for this, please refer to our wiki installation [link](https://github.com/sirimullalab/DLSCORE/wiki/Installation).
 
 
 ## Running the tests
